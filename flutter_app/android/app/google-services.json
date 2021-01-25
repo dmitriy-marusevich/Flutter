@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122348100821",
+    "project_id": "tournamentsapp-9b189",
+    "storage_bucket": "tournamentsapp-9b189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122348100821:android:0a6308294065e642a6965c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122348100821-kvmheg6ihnrvt0bq3k6ph1q28257peph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZUvzYc9dbAmMsqEGeK6JOgIqIMYOg-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122348100821-kvmheg6ihnrvt0bq3k6ph1q28257peph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
